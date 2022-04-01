@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sách lập trình"
+    }
+  ],
+  "books": [
+    {
+      "categoryId": "1",
+      "name": "Javascript và thứ bạn không thể hiểU nổi",
+      "id": 1
+    }
+  ]
+}
